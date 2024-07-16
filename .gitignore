@@ -40,3 +40,4 @@ build/
 ### MyImpl-common ###
 #MyImpl-common/src/test/
 MyImpl-common/target/
+.idea/

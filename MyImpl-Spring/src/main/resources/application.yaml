@@ -1,0 +1,12 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/myimpl?characterEncoding=utf-8&serverTimezone=UTC&&useSSL=false
+    username: root
+    password: 1234567
+    driver-class-name: com.mysql.cj.jdbc.Driver
+study:
+  config:
+    logCode:
+      controller: 100001

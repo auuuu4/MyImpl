@@ -11,6 +11,8 @@
     <modules>
 
         <module>MyImpl-common</module>
+        <module>MyImpl-study</module>
+        <module>MyImpl-Spring</module>
     </modules>
 
     <properties>
